@@ -4,6 +4,11 @@ This project implements a SQL database for Blinkit grocery store, designed to ma
 # Project Overview
 This project focuses on analyzing the sales data of Blinkit, a reputed online grocery store, using SQL. By leveraging data analysis, Blinkit aims to track sales trends, analyze customer behavior, and identify areas for improvement. The analysis will provide insights that can help enhance operations and increase customer satisfaction.
 
+## Tableau Dashboard
+Explore the interactive dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/nisha.rathod6228/viz/Blinkit-product/Dashboard1)
+
+---
+
 # Dataset Description
 The dataset consists of a table named Grocery Sales with the following 12 columns
 
