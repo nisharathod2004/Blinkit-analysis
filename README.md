@@ -1,6 +1,5 @@
-This project implements a SQL database for Blinkit grocery store, designed to manage inventory, sales, and customer data. It includes various queries for analyzing sales trends, inventory levels, and customer insights, providing valuable business intelligence.
-
 # Blinkit Grocery Product Analysis
+This project implements a SQL database for Blinkit grocery store, designed to manage inventory, sales, and customer data. It includes various queries for analyzing sales trends, inventory levels, and customer insights, providing valuable business intelligence.
 
 # Project Overview
 This project focuses on analyzing the sales data of Blinkit, a reputed online grocery store, using SQL. By leveraging data analysis, Blinkit aims to track sales trends, analyze customer behavior, and identify areas for improvement. The analysis will provide insights that can help enhance operations and increase customer satisfaction.
