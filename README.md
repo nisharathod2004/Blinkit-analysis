@@ -54,13 +54,13 @@ Here's a structured form based on the provided information, which can help with 
 6. **Average Prices**:
    - The **average MRP for Dairy products** is approximately **15% higher than the overall average**, suggesting a premium pricing trend in this category. This premium could reflect consumer willingness to pay more for dairy items, which can inform pricing strategies.
 
-
-# Conclusion
-The analysis provides actionable insights for Blinkit to optimize product offerings and improve sales strategies. By focusing on high-performing item types, enhancing the visibility of products, and expanding the range of low-fat options, Blinkit can drive higher customer satisfaction and sales growth.
-
 ---
 
 ## Tools Used
 - **MySQL**: For querying and analyzing the datasets.
 - **Tableau**: For visualizing insights.
 
+---
+
+# Conclusion
+The analysis provides actionable insights for Blinkit to optimize product offerings and improve sales strategies. By focusing on high-performing item types, enhancing the visibility of products, and expanding the range of low-fat options, Blinkit can drive higher customer satisfaction and sales growth.
