@@ -57,3 +57,10 @@ Here's a structured form based on the provided information, which can help with 
 
 # Conclusion
 The analysis provides actionable insights for Blinkit to optimize product offerings and improve sales strategies. By focusing on high-performing item types, enhancing the visibility of products, and expanding the range of low-fat options, Blinkit can drive higher customer satisfaction and sales growth.
+
+---
+
+## Tools Used
+- **MySQL**: For querying and analyzing the datasets.
+- **Tableau**: For visualizing insights.
+
